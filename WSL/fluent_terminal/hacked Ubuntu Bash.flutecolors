@@ -1,0 +1,31 @@
+{
+  "EncodedImage": "",
+  "Name": "Copy of Ubuntu Bash",
+  "Author": "Canonical hacked by ben reed",
+  "Colors": {
+    "Foreground": "#FAFFC6",
+    "Background": "#000000",
+    "Cursor": "#F51936",
+    "CursorAccent": "#000000",
+    "Selection": "rgba(171, 237, 193, 0.8359375)",
+    "SelectionForeground": null,
+    "SelectionBackground": null,
+    "Black": "#300001",
+    "Red": "#CC0000",
+    "Green": "#4E9A06",
+    "Yellow": "#C4A000",
+    "Blue": "#3465A4",
+    "Magenta": "#75507B",
+    "Cyan": "#06989A",
+    "White": "#D742AA",
+    "BrightBlack": "#FF6E70",
+    "BrightRed": "#EF2929",
+    "BrightGreen": "#8AE234",
+    "BrightYellow": "#FCE94F",
+    "BrightBlue": "#729FCF",
+    "BrightMagenta": "#AD7FA8",
+    "BrightCyan": "#34E2E2",
+    "BrightWhite": "#EEEEEE"
+  },
+  "BackgroundImage": null
+}
